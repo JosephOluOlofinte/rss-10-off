@@ -1,0 +1,32 @@
+<mjml>
+    <mj-body background-color="#E8E6E6">
+        
+
+        <!-- COMPANY LOGO -->
+        <mj-section background-color="white">
+            <mj-column>
+                <mj-image src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXYc3pkf7o6ydi-2JYJwplQDGq9FkHme_akAuKs1X4EOZhyphenhyphen-dVH9KfrZKEVsoGtuutfgYDTlNaiSsbbwbMtXXs89MgZVsZsWv-wZrGssaKUm_I1WIxxxScqxLc6flARyyLsfmxEMVh5EfGGtvz32uwEGr1Z5UZlPssqeIvmUSfoYvGakQJ_OwZdIAm4W5A/s114/logo.png" alt="" height="60px" width="110px" />
+            </mj-column>
+        </mj-section>
+
+        <!-- EMAIL TITLE -->
+        <mj-section background-color="white">
+            
+        </mj-section>
+
+        <!-- HERO IMAGE -->
+        <mj-section>
+            
+        </mj-section background-color="white">
+
+        <!-- EMAIL BODY COPY -->
+        <mj-section>
+            
+        </mj-section>
+
+        <!-- EMAIL FOOTER -->
+        <mj-section background-color="#EDEBDE">
+            
+        </mj-section>
+    </mj-body>
+</mjml>
