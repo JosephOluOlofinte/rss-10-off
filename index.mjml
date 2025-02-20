@@ -1,27 +1,59 @@
 <mjml>
+
+    <mj-head>
+        <mj-title>
+            TURN UP THE HEAT WITH 10% OFF YOUR FIRST ORDER!
+        </mj-title>
+
+        <mj-attributes>
+            <mj-all padding="0" />
+        </mj-attributes>
+    </mj-head>
     <mj-body background-color="#E8E6E6">
+
+
+        <!-- COLORED LINE FOR EFFECT -->
+        <mj-section background-color="#ED8506" padding="5px">
+            
+        </mj-section>
         
 
         <!-- COMPANY LOGO -->
-        <mj-section background-color="white">
-            <mj-column>
+        <mj-section background-color="white" padding="20px 0">
+            <mj-column padding="0">
                 <mj-image src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXYc3pkf7o6ydi-2JYJwplQDGq9FkHme_akAuKs1X4EOZhyphenhyphen-dVH9KfrZKEVsoGtuutfgYDTlNaiSsbbwbMtXXs89MgZVsZsWv-wZrGssaKUm_I1WIxxxScqxLc6flARyyLsfmxEMVh5EfGGtvz32uwEGr1Z5UZlPssqeIvmUSfoYvGakQJ_OwZdIAm4W5A/s114/logo.png" alt="" height="60px" width="110px" />
             </mj-column>
         </mj-section>
 
         <!-- EMAIL TITLE -->
-        <mj-section background-color="white">
-            
+        <mj-section background-color="white" padding="20px 0">
+            <mj-column width="100%">
+                <mj-text align="center" font-size="34px" font-weight="bold" line-height="46px">
+                    TURN UP THE HEAT WITH 10% OFF YOUR FIRST ORDER!
+                </mj-text>
+            </mj-column>
         </mj-section>
 
         <!-- HERO IMAGE -->
-        <mj-section>
-            
-        </mj-section background-color="white">
+        <mj-section background-color="white" padding="0">
+            <mj-column width="100%" padding="20px 0">
+                <mj-image src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb2nhwlpPdGmcosNE_6Z6qqVcpQONgawISXQCYDZnWT7kY4sU6oO7_PLXnl6MG-E6nDP6iPs_Q5HKz9_xAz97s7M_XnOqPbuYTpPihFWhenltKdCZnd7RZmTgSxPeRfweUBi2aT-ZSdpueIpPz2zwyDVudoCAZOa7uyJjyk-drayvLJ2uRqfMUHSUaRJ_v/s320/promo-image.png" alt="" />
+            </mj-column>
+        </mj-section>
 
         <!-- EMAIL BODY COPY -->
-        <mj-section>
-            
+        <mj-section background-color="white" padding="20px 0">
+            <mj-column width="100%">
+                <mj-text align="center" padding="0 27px" font-size="16px" line-height="25px">
+                    Get ready to sizzle this summer! Add a splash of fun and flavor to your cooking with our vibrant spices, fragrant loose teas, and rich olive oils.
+                </mj-text>
+                <mj-text align="center" padding="20px 40px" padding-bottom="35px" font-size="18px" font-weight="600" color="#ED8506">
+                    Use code WELCOME10 at checkout for 10% off your first order!
+                </mj-text>
+                <mj-button href="#"  padding="0 27px" align="center" background-color="black" inner-padding="15px 10px" font-weight="600">
+                    Save 10% Now →
+                </mj-button>
+            </mj-column>
         </mj-section>
 
         <!-- EMAIL FOOTER -->
