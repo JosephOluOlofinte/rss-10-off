@@ -12,13 +12,13 @@
         </mj-style>
     </mj-head>
 
-    <mj-body background-color="#E8E6E6" css-class="radius">
+    <mj-body background-color="#E8E6E6">
 
+        <!-- EMPTY SECTION FOR MARGIN -->
+        <mj-section padding="20px"></mj-section>
 
         <!-- COLORED LINE FOR EFFECT -->
-        <mj-section background-color="#ED8506" padding="5px">
-            
-        </mj-section>
+        <mj-section background-color="#ED8506" padding="5px"></mj-section>
         
 
         <!-- COMPANY LOGO -->
@@ -64,7 +64,7 @@
 
             <!-- SOCIAL ICONS -->
             <mj-section text-align="center">
-                <mj-column width="100%" css-class="inline">
+                <mj-column width="100%">
 
                     <mj-social icon-padding="8px">
                         <mj-social-element href="#" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoKOy6-dVCFcIaOtpEGeBOe7vFHLilyPL2YOFaSoK5cSrTytHodq1khSnGqAO12Hn4ecnkwJuqhAO_I4il1Jffs7pxw_pf2zou34RvpwjP7_dbhREkFIJn-n1DE_puJxaMyLx3FqikaAMfjDgykZKnwABwZliAYeDVsuLBy2V4uSQ3iEuik63gi7Zv8BgX/s1600/x-logo.png">                           
@@ -111,13 +111,9 @@
         </mj-wrapper>
 
         <!-- COLORED LINE FOR EFFECT -->
-        <mj-section background-color="#ED8506" padding="5px">
-            
-        </mj-section>
+        <mj-section background-color="#ED8506" padding="5px"></mj-section>
 
         <!-- EMPTY SECTION FOR MARGIN -->
-        <mj-section padding="20px">
-            
-        </mj-section>
+        <mj-section padding="20px"></mj-section>
     </mj-body>
 </mjml>
