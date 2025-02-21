@@ -5,17 +5,12 @@
         <mj-breakpoint width="375px" />
         <mj-attributes><mj-all padding="0" font-family="Raleway" /></mj-attributes>        
         <mj-font name="Raleway" href="https://fonts.googleapis.com/css?family=Raleway" />
-        <mj-style>
-            .radius {
-                border-radius: 20px;
-            }
-        </mj-style>
     </mj-head>
 
     <mj-body background-color="#E8E6E6">
 
         <!-- EMPTY SECTION FOR MARGIN -->
-        <mj-section padding="20px"></mj-section>
+        <mj-section padding="10px"></mj-section>
 
         <!-- COLORED LINE FOR EFFECT -->
         <mj-section background-color="#ED8506" padding="5px"></mj-section>
@@ -45,12 +40,12 @@
         </mj-section>
 
         <!-- EMAIL BODY COPY -->
-        <mj-section background-color="white" padding="20px 15px" padding-bottom="45px">
-            <mj-column width="100%">
-                <mj-text align="center" padding="0 35px" font-size="16px" line-height="25px" font-weight="400">
+        <mj-section background-color="white" padding="20px 10px" padding-bottom="45px">
+            <mj-column width="85%">
+                <mj-text align="center" font-size="16px" line-height="25px" font-weight="400">
                     Get ready to sizzle this summer! Add a splash of fun and flavor to your cooking with our vibrant spices, fragrant loose teas, and rich olive oils.
                 </mj-text>
-                <mj-text align="center" padding="20px 15px" padding-bottom="35px" font-size="18px" font-weight="600" color="#ED8506" line-height="28px">
+                <mj-text align="center" padding="20px 0" padding-bottom="35px" font-size="18px" font-weight="600" color="#ED8506" line-height="28px">
                     Use code WELCOME10 at checkout for 10% off your first order!
                 </mj-text>
                 <mj-button href="#"  padding="0 27px" align="center" background-color="black" inner-padding="15px 20px" font-weight="600" font-size="16px">
@@ -100,7 +95,9 @@
                     </mj-text>
 
                     <mj-text align="center" padding="15px 80px" line-height="20px">
-                        Our original Baton Rouge, Louisiana retail shop is located at <span style="color:#ED8506">660 Jefferson Hwy.</span> Questions? We'd love to chat. <br /> Give us a call at <b>225-930-9967</b>
+                        Our original Baton Rouge, Louisiana retail shop is located at <span style="color:#ED8506">660 Jefferson Hwy.</span> <br /><br> 
+                        Questions? We'd love to chat. <br /> 
+                        Give us a call at <b>225-930-9967</b>
                     </mj-text>
 
                     <mj-text align="center">
