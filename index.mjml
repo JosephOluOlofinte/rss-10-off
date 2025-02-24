@@ -4,7 +4,7 @@
         <mj-title>TURN UP THE HEAT WITH 10% OFF YOUR FIRST ORDER!</mj-title>
         <mj-breakpoint width="375px" />
         <mj-attributes><mj-all padding="0" font-family="Raleway" /></mj-attributes>        
-        <mj-font name="Raleway" href="https://fonts.googleapis.com/css?family=Raleway" />
+        <mj-font name="Raleway" href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap" />
     </mj-head>
 
     <mj-body background-color="#E8E6E6">
@@ -26,7 +26,7 @@
         <!-- EMAIL TITLE -->
         <mj-section background-color="white" padding="20px 0">
             <mj-column width="100%">
-                <mj-text align="center" padding="0 25px" font-size="28px" font-weight="bold" line-height="40px">
+                <mj-text align="center" padding="0 25px" font-size="28px" font-weight="800" line-height="40px">
                     TURN UP THE HEAT WITH 10% OFF YOUR FIRST ORDER!
                 </mj-text>
             </mj-column>
